@@ -4,4 +4,3 @@ SQLAlchemy==0.9.7
 psycopg2==2.5.4
 Flask-HTTPAuth==2.7.0
 
-
